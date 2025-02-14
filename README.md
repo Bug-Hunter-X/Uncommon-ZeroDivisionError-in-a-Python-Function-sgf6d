@@ -1,0 +1,1 @@
+This repository contains a Python function that demonstrates a less common occurrence of the ZeroDivisionError. The error only occurs under a specific condition (when 'a' is 0). This makes it a bit less obvious compared to the standard case of directly dividing by zero. The solution shows how to prevent the error using exception handling.
